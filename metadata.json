@@ -1,0 +1,6 @@
+{
+  "name": "KHALID SUPER 3D CINEMATIC STUDIO",
+  "description": "Professional 3D Cinematic Text Animation and Video Studio powered by Three.js & WebGL",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
